@@ -19,5 +19,6 @@ fido = Dog.new("Fido")
 maddy = Dog.new("Maddy")
 
 Dog.all 
+Dog.clear_all
 
   
