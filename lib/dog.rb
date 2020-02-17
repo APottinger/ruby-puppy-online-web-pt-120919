@@ -7,6 +7,11 @@ class Dog
     @@all << name 
   end
   
+  def initalize(save)
+    @save = save
+  end
+  
+  
   def self.all
     @@all 
   end
