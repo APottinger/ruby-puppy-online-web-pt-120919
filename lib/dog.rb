@@ -18,6 +18,6 @@ fido = Dog.new("Fido")
   
 maddy = Dog.new("Maddy")
 
-self.all 
+Dog.all 
 
   
