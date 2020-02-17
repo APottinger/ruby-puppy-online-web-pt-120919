@@ -18,4 +18,6 @@ fido = Dog.new("Fido")
   
 maddy = Dog.new("Maddy")
 
+Array.clear_all
+
   
